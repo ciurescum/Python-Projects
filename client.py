@@ -4,7 +4,7 @@ import socket
 import sys
 
 # In fisierul client am implementat 2 clase: Client si Jucator Client
-# clasa Client care va gestiona conexiunile intre client si serve
+# clasa Client care va gestiona conexiunile intre client si server
 class Client:
     def __init__(self):
         port = 1400
